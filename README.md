@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shankar Prasad</h1>
-<h3 align="center">Frontend Developer | Web App Builder</h3>
 
 <p align="center">
-I love building modern web apps, real-time tools and clean UI experiences using JavaScript and Firebase.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;JavaScript+Enthusiast;Building+Real+Time+Web+Apps;Love+Clean+UI+Design&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+Frontend Developer focused on building modern web apps and clean user interfaces using JavaScript and Firebase.
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shankar-prasad-pyke-989257371/" target="blank">
+<p>
+<a href="https://www.linkedin.com/in/shankar-prasad-pyke-989257371/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
@@ -40,14 +43,14 @@ I love building modern web apps, real-time tools and clean UI experiences using 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### Hosting / Tools
+### Hosting
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-### Design
+### Tools
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 
@@ -55,7 +58,7 @@ I love building modern web apps, real-time tools and clean UI experiences using 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shankar2006458\&theme=dark\&hide_border=true\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=shankar2006458\&theme=dark\&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shankar2006458\&theme=dark\&hide_border=true)
 
@@ -63,16 +66,7 @@ I love building modern web apps, real-time tools and clean UI experiences using 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shankar2006458\&theme=radical\&no-frame=true)
-
----
-
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=shankar2006458\&icon=0\&color=0)
