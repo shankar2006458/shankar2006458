@@ -74,8 +74,9 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/shankar2006458/shankar2006458/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/shankar2006458/shankar2006458/output/github-contribution-grid-snake.svg">
+</p>
 ---
 
 ## ✍️ Dev Quote
