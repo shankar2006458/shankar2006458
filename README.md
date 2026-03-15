@@ -66,7 +66,22 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shankar2006458\&theme=radical\&no-frame=true\&margin-w=10)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shankar2006458/shankar2006458/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=shankar2006458\&icon=0\&color=0)
