@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shankar Prasad</h1>
+<h1 align="center">Hi 👋, I'm Shankar Prasad Pyke</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;JavaScript+Enthusiast;Building+Real+Time+Web+Apps;Love+Clean+UI+Design&center=true&width=500&height=45">
