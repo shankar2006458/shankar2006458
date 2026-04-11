@@ -13,6 +13,12 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 ## 🌐 Connect With Me
 
 <p>
+<a href="https://shankar2006458.github.io/portfolio/">
+<img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+<p>
 <a href="https://www.linkedin.com/in/shankar-prasad-pyke-989257371/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
@@ -50,16 +56,6 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shankar2006458&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
-
-![](https://nirzak-streak-stats.vercel.app/?user=shankar2006458&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar2006458&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
 
 ---
 
