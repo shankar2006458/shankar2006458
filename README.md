@@ -13,7 +13,7 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://shankar2006458.github.io/portfolio/">
+<a href="https://shankar2006458.github.io/MyWebProfile/">
 <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
