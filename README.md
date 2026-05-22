@@ -60,6 +60,13 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 
 ---
 
+## 🔥 GitHub Stats
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=shankar2006458&theme=radical" height="170"/>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 [![Shankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shankar2006458&theme=react-dark)](https://github.com/shankar2006458)
