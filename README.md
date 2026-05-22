@@ -62,7 +62,7 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shankar2006458&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankar2006458&show_icons=true&theme=radical)
 
 ---
 
