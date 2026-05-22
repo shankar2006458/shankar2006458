@@ -60,9 +60,6 @@ Frontend Developer focused on building modern web apps and clean user interfaces
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shankar2006458&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔥 GitHub Stats
 
