@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Frontend Developer focused on building modern web apps and clean user interfaces using JavaScript and Firebase.
+Frontend Developer focused on building modern wuyeb apps and clean user interfaces using JavaScript and Firebase.
 </p>
 
 ---
